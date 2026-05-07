@@ -1,7 +1,7 @@
 <p align="center">
 
 # Hi, I'm Samuel Yacoub Ishak 👋  
-Junior Backend Software Engineer (.NET) · ASP.NET Core · REST APIs · Clean Architecture | Freelance Graphics Designer and Mathematics Instructor  
+Junior Backend Software Engineer | Freelance Graphics Designer and Mathematics Instructor  
 
 ![Profile views](https://komarev.com/ghpvc/?username=SamuelYacoub&style=for-the-badge)
 
