@@ -4,41 +4,69 @@ Junior Backend Software Engineer | Freelance Graphics Designer and Mathematics I
 
 ## About Me
 
-I am a Computer Science graduate from Minia University,Egypt.  
+I am a Computer Science graduate from Minia University.  
 I specialize in backend development using C# and .NET, focusing on scalable APIs, database design, and clean architecture.
 
 ## Technical Skills
 
-### Backend Development
-- C#
-- ASP.NET Core
+<table>
+  <tr>
+    <td><strong>Backend Development</strong></td>
+    <td><strong>Frontend Basics</strong></td>
+  </tr>
+  <tr>
+    <td>
+      • C#<br>
+      • .NET<br>
+      • ASP.NET Core
+    </td>
+    <td>
+      • HTML<br>
+      • CSS
+    </td>
+  </tr>
+</table>
 
-### Frontend Basics
-- HTML
-- CSS
+<table>
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td><strong>Tools & Others</strong></td>
+  </tr>
+  <tr>
+    <td>
+      • SQL Server<br>
+      • Database Design<br>
+      • EERD<br>
+      • 3NF Normalization
+    </td>
+    <td>
+      • Git<br>
+      • GitHub
+    </td>
+  </tr>
+</table>
 
-### Databases
-- SQL Server
-- Database Design
-- EERD
-- 3NF Normalization
-
-### Tools & Others
-- Git
-- GitHub
-
-### Software Engineering
-- SOLID Principles
-- Clean Code
-- Clean Architecture
-- Agile
-- Scrum
-- SDLC
-
-### Programming Languages
-- C#
-- C++
-- Java
+<table>
+  <tr>
+    <td><strong>Software Engineering</strong></td>
+    <td><strong>Programming Languages</strong></td>
+  </tr>
+  <tr>
+    <td>
+      • SOLID Principles<br>
+      • Clean Code<br>
+      • Clean Architecture<br>
+      • Agile<br>
+      • Scrum<br>
+      • SDLC
+    </td>
+    <td>
+      • C#<br>
+      • C++<br>
+      • Java
+    </td>
+  </tr>
+</table>
 
 ## Education
 
@@ -46,7 +74,7 @@ Bachelor of Computer Science
 Minia University, Faculty of Computers and Information  
 September 2021 - July 2025  
 
-GPA: 3.33 / 4.0 —  ( B+ ) Very Good with High Distinction
+GPA: 3.33 / 4.0 — Very Good with High Distinction
 
 ## Contact
 
