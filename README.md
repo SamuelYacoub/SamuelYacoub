@@ -30,14 +30,7 @@ I specialize in backend development using C# and .NET, focusing on scalable APIs
     <td><strong>Tools & Others</strong></td>
     <td>Git<br>GitHub</td>
   </tr>
-  <tr>
-    <td><strong>Software Engineering</strong></td>
-    <td>SOLID Principles<br>Clean Code<br>Clean Architecture<br>Agile<br>Scrum<br>SDLC</td>
-  </tr>
-  <tr>
-    <td><strong>Programming Languages</strong></td>
-    <td>C#<br>C++<br>Java</td>
-  </tr>
+
 </table>
 
 ## Education
