@@ -11,60 +11,32 @@ I specialize in backend development using C# and .NET, focusing on scalable APIs
 
 <table>
   <tr>
-    <td><strong>Backend Development</strong></td>
-    <td><strong>Frontend Basics</strong></td>
+    <th width="50%">Category</th>
+    <th width="50%">Skills</th>
   </tr>
   <tr>
-    <td>
-      • C#<br>
-      • .NET<br>
-      • ASP.NET Core
-    </td>
-    <td>
-      • HTML<br>
-      • CSS
-    </td>
+    <td><strong>Backend Development</strong></td>
+    <td>C#<br>.NET<br>ASP.NET Core</td>
   </tr>
-</table>
-
-<table>
+  <tr>
+    <td><strong>Frontend Basics</strong></td>
+    <td>HTML<br>CSS</td>
+  </tr>
   <tr>
     <td><strong>Databases</strong></td>
-    <td><strong>Tools & Others</strong></td>
+    <td>SQL Server<br>Database Design<br>EERD<br>3NF Normalization</td>
   </tr>
   <tr>
-    <td>
-      • SQL Server<br>
-      • Database Design<br>
-      • EERD<br>
-      • 3NF Normalization
-    </td>
-    <td>
-      • Git<br>
-      • GitHub
-    </td>
+    <td><strong>Tools & Others</strong></td>
+    <td>Git<br>GitHub</td>
   </tr>
-</table>
-
-<table>
   <tr>
     <td><strong>Software Engineering</strong></td>
-    <td><strong>Programming Languages</strong></td>
+    <td>SOLID Principles<br>Clean Code<br>Clean Architecture<br>Agile<br>Scrum<br>SDLC</td>
   </tr>
   <tr>
-    <td>
-      • SOLID Principles<br>
-      • Clean Code<br>
-      • Clean Architecture<br>
-      • Agile<br>
-      • Scrum<br>
-      • SDLC
-    </td>
-    <td>
-      • C#<br>
-      • C++<br>
-      • Java
-    </td>
+    <td><strong>Programming Languages</strong></td>
+    <td>C#<br>C++<br>Java</td>
   </tr>
 </table>
 
