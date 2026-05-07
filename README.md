@@ -4,7 +4,7 @@ Junior Backend Software Engineer | Freelance Graphics Designer and Mathematics I
 
 ## About Me
 
-I am a Computer Science graduate from Minia University.  
+I am a Computer Science graduate from Minia University,Egypt.  
 I specialize in backend development using C# and .NET, focusing on scalable APIs, database design, and clean architecture.
 
 ## Technical Skills
@@ -46,7 +46,7 @@ Bachelor of Computer Science
 Minia University, Faculty of Computers and Information  
 September 2021 - July 2025  
 
-GPA: 3.33 / 4.0 — Very Good with High Distinction
+GPA: 3.33 / 4.0 —  ( B+ ) Very Good with High Distinction
 
 ## Contact
 
